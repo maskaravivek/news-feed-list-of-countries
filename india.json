@@ -1,0 +1,83 @@
+{
+    "sources": [{
+			"name": "Rediff",
+			"url": "http://rediff.com/",
+			"feedlink": "http://www.rediff.com/rss/inrss.xml"
+		}, {
+			"name": "Indiatimes",
+			"url": "http://indiatimes.com/",
+			"feedlink": "http://www.indiatimes.com/feeds/feeds.xml"
+		}, {
+			"name": "Times of India",
+			"url": "http://timesofindia.indiatimes.com/",
+			"feedlink": "http://timesofindia.indiatimes.com/rssfeedsdefault.cms"
+		}, {
+			"name": "In.com",
+			"url": "http://in.com/",
+			"feedlink": "http://www.in.com/rss/news/tv-"
+		}, {
+			"name": "Moneycontrol",
+			"url": "http://moneycontrol.com/",
+			"feedlink": "http://www.moneycontrol.com/rss/latestnews.xml"
+		}, {
+			"name": "NDTV.com",
+			"url": "http://ndtv.com/",
+			"feedlink": "http://sports.ndtv.com/?format=feed"
+		}, {
+			"name": "The Economic Times",
+			"url": "http://economictimes.indiatimes.com/",
+			"feedlink": "http://economictimes.indiatimes.com/rssfeedsdefault.cms"
+		}, {
+			"name": "India.com",
+			"url": "http://india.com/",
+			"feedlink": "http://www.india.com/feed/"
+		}, {
+			"name": "Manorama Online",
+			"url": "http://www.manoramaonline.com/",
+			"feedlink": "http://www.manoramaonline.com/rss/news/"
+		}, {
+			"name": "Oneindia",
+			"url": "http://oneindia.in/",
+			"feedlink": "http://videos.oneindia.in/rss/oneindia-all-videos.rss"
+		}, {
+			"name": "CNN-IBN",
+			"url": "http://ibnlive.in.com/",
+			"feedlink": "http://ibnlive.in.com/xml/top.xml"
+		}, {
+			"name": "Zee News",
+			"url": "http://zeenews.india.com/",
+			"feedlink": "http://zeenews.india.com/rss/india-national-news.xml"
+		}, {
+			"name": "The Hindu",
+			"url": "http://thehindu.com/",
+			"feedlink": "http://www.thehindu.com/news/?service=rss"
+		}, {
+			"name": "India Today",
+			"url": "http://indiatoday.intoday.in/",
+			"feedlink": "http://indiatoday.intoday.in/rss/article.jsp?sid=214"
+		}, {
+			"name": "mathrubhumi.com",
+			"url": "http://mathrubhumi.com/",
+			"feedlink": "http://saintlouismalayaleeassociation.yolasite.com/news.rss"
+		}, {
+			"name": "Sify",
+			"url": "http://sify.com/",
+			"feedlink": "http://www.sify.com/rss2/sports/imagegallery/category/Cricket"
+		}, {
+			"name": "Dainik Jagran",
+			"url": "http://jagran.com/",
+			"feedlink": "http://rss.jagran.com/local/uttar-pradesh/lucknow-city.xml"
+		}, {
+			"name": "Dainik Bhaskar",
+			"url": "http://bhaskar.com/",
+			"feedlink": "http://www.bhaskar.com/rss-feed/3589/"
+		}, {
+			"name": "NavBharat Times",
+			"url": "http://navbharattimes.indiatimes.com/",
+			"feedlink": "http://navbharattimes.indiatimes.com/rssfeedsdefault.cms"
+		}, {
+			"name": "The Indian Express",
+			"url": "http://indianexpress.com/",
+			"feedlink": "http://indianexpress.com/feed/"
+		}]
+}
