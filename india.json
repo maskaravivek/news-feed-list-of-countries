@@ -10,19 +10,15 @@
 		}, {
 			"name": "Times of India",
 			"url": "http://timesofindia.indiatimes.com/",
-			"feedlink": "http://timesofindia.indiatimes.com/rssfeedsdefault.cms"
-		}, {
-			"name": "In.com",
-			"url": "http://in.com/",
-			"feedlink": "http://www.in.com/rss/news/tv-"
+			"feedlink": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms"
 		}, {
 			"name": "Moneycontrol",
 			"url": "http://moneycontrol.com/",
 			"feedlink": "http://www.moneycontrol.com/rss/latestnews.xml"
 		}, {
-			"name": "NDTV.com",
+			"name": "NDTV Sports",
 			"url": "http://ndtv.com/",
-			"feedlink": "http://sports.ndtv.com/?format=feed"
+			"feedlink": "https://sports.ndtv.com/rss/all"
 		}, {
 			"name": "The Economic Times",
 			"url": "http://economictimes.indiatimes.com/",
@@ -32,17 +28,9 @@
 			"url": "http://india.com/",
 			"feedlink": "http://www.india.com/feed/"
 		}, {
-			"name": "Manorama Online",
-			"url": "http://www.manoramaonline.com/",
-			"feedlink": "http://www.manoramaonline.com/rss/news/"
-		}, {
-			"name": "Oneindia",
-			"url": "http://oneindia.in/",
-			"feedlink": "http://videos.oneindia.in/rss/oneindia-all-videos.rss"
-		}, {
 			"name": "CNN-IBN",
 			"url": "http://ibnlive.in.com/",
-			"feedlink": "http://ibnlive.in.com/xml/top.xml"
+			"feedlink": "https://www.news18.com/rss/india.xml"
 		}, {
 			"name": "Zee News",
 			"url": "http://zeenews.india.com/",
@@ -54,23 +42,7 @@
 		}, {
 			"name": "India Today",
 			"url": "http://indiatoday.intoday.in/",
-			"feedlink": "http://indiatoday.intoday.in/rss/article.jsp?sid=214"
-		}, {
-			"name": "mathrubhumi.com",
-			"url": "http://mathrubhumi.com/",
-			"feedlink": "http://saintlouismalayaleeassociation.yolasite.com/news.rss"
-		}, {
-			"name": "Sify",
-			"url": "http://sify.com/",
-			"feedlink": "http://www.sify.com/rss2/sports/imagegallery/category/Cricket"
-		}, {
-			"name": "Dainik Jagran",
-			"url": "http://jagran.com/",
-			"feedlink": "http://rss.jagran.com/local/uttar-pradesh/lucknow-city.xml"
-		}, {
-			"name": "Dainik Bhaskar",
-			"url": "http://bhaskar.com/",
-			"feedlink": "http://www.bhaskar.com/rss-feed/3589/"
+			"feedlink": "https://www.indiatoday.in/rss/1206584"
 		}, {
 			"name": "NavBharat Times",
 			"url": "http://navbharattimes.indiatimes.com/",
