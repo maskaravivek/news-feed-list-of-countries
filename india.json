@@ -24,10 +24,6 @@
 			"url": "http://economictimes.indiatimes.com/",
 			"feedlink": "http://economictimes.indiatimes.com/rssfeedsdefault.cms"
 		}, {
-			"name": "India.com",
-			"url": "http://india.com/",
-			"feedlink": "http://www.india.com/feed/"
-		}, {
 			"name": "CNN-IBN",
 			"url": "http://ibnlive.in.com/",
 			"feedlink": "https://www.news18.com/rss/india.xml"
